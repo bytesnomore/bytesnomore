@@ -11,15 +11,32 @@
 Gosto de trabalhar em projetos que acredito.
 Atuo na área de CyberSecurity, onde tenho experiência principalmente com Gestão de Vulnerabilidades, GRC, Controles de Auditoria e Segurança de Aplicações. Mas me envolvo em todo tipo de discussão sobre tecnologia para aprender cada vez mais.
 
-## ✨ Main Skills
+## ✨ Skills
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,notion,python&theme=dark" />
 </p>
 
-## ✨ Studying
+## ✨ Estudando
 <p>
   <img src="https://skillicons.dev/icons?i=css,docker,html,js,nextjs,nodejs,react&theme=dark" />
 </p>
+
+## 🔗 Fale Comigo!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mariaoliveiraabreu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:maria.eduardade6@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://discord.com/users/1117943492182806539" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/69/9c/f0/699cf028fd9666e6af060484e0179079.gif" width="450" />
