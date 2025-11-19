@@ -6,4 +6,9 @@
 
 </div>
 
+## Sobre mim
+
+Gosto de trabalhar em projetos que acredito.
+Atuo na área de CyberSecurity, onde tenho experiência principalmente com Gestão de Vulnerabilidades, GRC, Controles de Auditoria e Segurança de Aplicações. Mas me envolvo em todo tipo de discussão sobre tecnologia para aprender cada vez mais.
+
 
