@@ -6,9 +6,20 @@
 
 </div>
 
-## Sobre mim
+## ✨ Sobre mim
 
 Gosto de trabalhar em projetos que acredito.
 Atuo na área de CyberSecurity, onde tenho experiência principalmente com Gestão de Vulnerabilidades, GRC, Controles de Auditoria e Segurança de Aplicações. Mas me envolvo em todo tipo de discussão sobre tecnologia para aprender cada vez mais.
+
+## ✨ Main Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,notion,python&theme=dark" />
+</p>
+
+## ✨ Studying
+<p>
+  <img src="https://skillicons.dev/icons?i=css,docker,html,js,nextjs,nodejs,react&theme=dark" />
+</p>
+
 
 
