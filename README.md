@@ -21,5 +21,16 @@ Atuo na área de CyberSecurity, onde tenho experiência principalmente com Gest�
   <img src="https://skillicons.dev/icons?i=css,docker,html,js,nextjs,nodejs,react&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/69/9c/f0/699cf028fd9666e6af060484e0179079.gif" width="450" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=1000&size=30&pause=1000&color=7C00F0&center=true&vCenter=true&width=435&lines=tchau%2C+tchau!;see+ya!;adi%C3%B3s!;au+revoir!;%E3%81%95%E3%82%88%E3%81%86%E3%81%AA%E3%82%89!;arrivederci!;Verabschiedung!" />
+  </a>
+</p>
+
+
 
 
